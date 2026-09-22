@@ -1,0 +1,1 @@
+import{r as e}from"./framework-BcJpXco4.js";function t(e){return`/fluxvita`+e}var n=e();function r(){return(0,n.jsxs)(`a`,{className:`brand`,href:t(`/`),"aria-label":`FluxVita, início`,children:[(0,n.jsx)(`img`,{src:t(`/images/logo.jpeg`),alt:``}),`Flux`,(0,n.jsx)(`span`,{children:`Vita`})]})}export{t as n,r as t};
